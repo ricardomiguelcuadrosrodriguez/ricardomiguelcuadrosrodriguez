@@ -88,4 +88,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ricardomiguelcuadrosrodriguez&color=2E9EF7&style=flat-square&label=Profile+Views)
 
-</div><img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/eecc1e06-00ef-4607-a4a0-bfde05c7c1e4" />
+</div>
