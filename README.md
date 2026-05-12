@@ -17,7 +17,7 @@
 
 ## 👨‍💼 Sobre mí | About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 **ES 🇪🇸** Soy un **Ingeniero de Sistemas e Informática**, bachiller titulado, apasionado por crear soluciones tecnológicas innovadoras. Actualmente me desempeño como **Jefe del Área de Programación**, liderando equipos de desarrollo y proyectos de transformación digital.
 
