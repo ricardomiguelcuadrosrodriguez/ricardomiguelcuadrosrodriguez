@@ -2,7 +2,7 @@
 
 Systems & Informatics Engineer — Head of Programming Department. Based in Lima, Peru.
 
-Focused on ERP development with Odoo, Python backend, and web solutions for businesses. Founder of [XplorAI](https://xplorai.pe/).
+Focused on ERP development with Odoo, Python backend, and web solutions for businesses. Co-founder of [XplorAI](https://xplorai.pe/).
 
 ---
 
