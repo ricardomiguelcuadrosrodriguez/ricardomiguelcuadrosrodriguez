@@ -1,6 +1,6 @@
 # Ricardo Miguel Cuadros Rodríguez
 
-Systems & Informatics Engineer — Head of Programming Department at [@TechSolutions](https://github.com/TechSolutions) SAS. Based in Lima, Peru.
+Systems & Informatics Engineer — Head of Programming Department. Based in Lima, Peru.
 
 Focused on ERP development with Odoo, Python backend, and web solutions for businesses. Founder of [XplorAI](https://xplorai.pe/).
 
