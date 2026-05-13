@@ -6,7 +6,13 @@ Focused on ERP development with Odoo, Python backend, and web solutions for busi
 
 ---
 
-### Tech Stack
+Ingeniero de Sistemas e Informática — Jefe del Departamento de Programación. Basado en Lima, Perú.
+
+Enfocado en el desarrollo ERP con Odoo, backend en Python y soluciones web para empresas. Co-fundador de [XplorAI](https://xplorai.pe/).
+
+---
+
+### Tech Stack / Tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,9 +28,9 @@ Focused on ERP development with Odoo, Python backend, and web solutions for busi
 
 ---
 
-### Connect
+### Connect / Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-cuadros-983389409)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/CuadrosRicardoM)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ricardomiguelcuadrosrodriguez@gmail.com)
-[![XplorAI](https://img.shields.io/badge/XplorAI-6366F1?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMm0wIDJhOCA4IDAgMCAxIDggOCA4IDggMCAwIDEtOCA4IDggOCAwIDAgMS04LTggOCA4IDAgMCAxIDgtOG0tMSA0djZsNS0zLTUtM3oiLz48L3N2Zz4=&logoColor=white)](https://xplorai.pe/)
+[![XplorAI](https://img.shields.io/badge/XplorAI-6366F1?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB5PSIuOWVtIiBmb250LXNpemU9IjkwIj7wn6azPC90ZXh0Pjwvc3ZnPg==&logoColor=white)](https://xplorai.pe/)
