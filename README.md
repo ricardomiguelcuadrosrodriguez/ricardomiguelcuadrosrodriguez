@@ -2,7 +2,7 @@
 
 Systems & Informatics Engineer — Head of Programming Department at [@TechSolutions](https://github.com/TechSolutions) SAS. Based in Lima, Peru.
 
-Focused on ERP development with Odoo, Python backend, and web solutions for businesses.
+Focused on ERP development with Odoo, Python backend, and web solutions for businesses. Founder of [XplorAI](https://xplorai.pe/).
 
 ---
 
@@ -27,3 +27,4 @@ Focused on ERP development with Odoo, Python backend, and web solutions for busi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-cuadros-983389409)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/CuadrosRicardoM)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ricardomiguelcuadrosrodriguez@gmail.com)
+[![XplorAI](https://img.shields.io/badge/XplorAI-6366F1?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQTEwIDEwIDAgMCAwIDIgMTJhMTAgMTAgMCAwIDAgMTAgMTAgMTAgMTAgMCAwIDAgMTAtMTBBMTAgMTAgMCAwIDAgMTIgMm0wIDJhOCA4IDAgMCAxIDggOCA4IDggMCAwIDEtOCA4IDggOCAwIDAgMS04LTggOCA4IDAgMCAxIDgtOG0tMSA0djZsNS0zLTUtM3oiLz48L3N2Zz4=&logoColor=white)](https://xplorai.pe/)
